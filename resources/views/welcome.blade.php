@@ -502,7 +502,7 @@
 <script src="{{asset('assets/vendor/php-email-form/validate.js')}}"></script>
 
 <!-- Template Main JS File -->
-<script src="{{asset('assets/js/main.js')}}'"></script>
+<script src="{{asset('assets/js/main.js')}}"></script>
 
 </body>
 
