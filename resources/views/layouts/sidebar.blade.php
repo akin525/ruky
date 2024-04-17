@@ -378,6 +378,11 @@
                         <span class="nav-text">Dashboard</span>
                     </a>
                 </li>
+                <li><a  href="https://ruky.com.ng/earn/" aria-expanded="false">
+                        <i class="material-symbols-outlined">money</i>
+                        <span class="nav-text">Read News & Earn</span>
+                    </a>
+                </li>
                 <li><a class="has-arrow " href="javascript:void(0);" aria-expanded="false">
                         <i class="material-symbols-outlined">book</i>
                         <span class="nav-text">Recharge</span>
@@ -392,7 +397,54 @@
                     </ul>
 
                 </li>
+                <li><a  href="https://ruky.com.ng/earn/shop" aria-expanded="false">
+                        <i class="material-symbols-outlined">shop</i>
+                        <span class="nav-text">Shop Now</span>
+                    </a>
+                </li>
+                <li><a class="has-arrow " href="javascript:void(0);" aria-expanded="false">
+                        <i class="material-symbols-outlined">school</i>
+                        <span class="nav-text">Education</span>
+                    </a>
+                    <ul aria-expanded="false">
+                        <li><a href="#">Waec Pin</a></li>
+                        <li><a href="#">Neco Pin</a></li>
+                        <li><a href="#">Jamb</a></li>
 
+                    </ul>
+
+                </li>
+                <li><a class="has-arrow " href="javascript:void(0);" aria-expanded="false">
+                        <i class="material-symbols-outlined">bookmark</i>
+                        <span class="nav-text">Self Service</span>
+                    </a>
+                    <ul aria-expanded="false">
+                        <li><a href="#">Verify Airtime</a></li>
+                        <li><a href="#">Verify Mobile Data</a></li>
+
+                    </ul>
+
+                </li>
+                <li><a  href="#" aria-expanded="false">
+                        <i class="material-symbols-outlined">book</i>
+                        <span class="nav-text">Bills History</span>
+                    </a>
+                </li>
+                <li><a  href="#" aria-expanded="false">
+                        <i class="material-symbols-outlined">book</i>
+                        <span class="nav-text">Deposit History</span>
+                    </a>
+                </li>
+                <li><a  href="#" aria-expanded="false">
+                        <i class="fa fa-user"></i>
+                        <span class="nav-text">My Account</span>
+                    </a>
+                </li>
+                <li><a  href="#" aria-expanded="false">
+                        <i class="material-symbols-outlined">money</i>
+                        <span class="nav-text">My Commission</span>
+                    </a>
+                </li>
 
             </ul>
             <div class="copyright">
